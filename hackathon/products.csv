@@ -1,0 +1,11 @@
+﻿product_id,product_name,store_location,store,discounts,price,shipping_time,category
+1,LP Shirt,Smithaven,Smithaven Mall,20.00,10,3,clothes
+2,Hard Drive,Smithaven,BestBuy,0.00,33,2,storage
+3,Crucial Ram 4gb,Smithaven,BestBuy,0.00,25.2,2,memory
+4,Dell XPS 14,Smithaven,BestBuy,10.00,999,2,laptop
+5,HP Pavillion Series,Smithaven,BestBuy,10.00,899,2,laptop
+6,Levis Jeans,Smithaven,Smithaven Mall,5.00,45,5,clothes
+7,Tommy Hilfiger T Shirt,Smithaven,Smithaven Mall,0.00,15,2,clothes
+8,GAP Black Jacket,Smithaven,Smithaven Mall,0.00,70,3,clothes
+9,Samsung Galaxy S10,Smithaven,BestBuy,10.00,999,3,phone
+10,Apple Iphone 11,Smithaven,BestBuy,0.00,999,1,phone
